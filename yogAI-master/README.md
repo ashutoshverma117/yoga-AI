@@ -22,6 +22,24 @@ Tools and Libraries used: Tensorflow, ml5.py, pose.net
 
 
 
+<h2>Objective :</h2>
+
+1. To develop a modern solution for Yoga practices.
+
+2. To motivate urban people towards Yoga.
+
+3. To spread awareness about Yoga and exercise.
+
+4. To recommend people the best-suited posture for their health to maintain
+health and save time on process of thinking about which yoga posture they should do.
+
+5. To guide the people to do proper postures.
+
+6. To engage the user's interest.
+
+
+
+
 <h2>REFERENCES</h2>
 
 
