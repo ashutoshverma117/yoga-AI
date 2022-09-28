@@ -1,4 +1,4 @@
-### Hey there! Welcome to yogAI, developed in 2021 by Ashutosh Kumar Verma.
+### Hey there! Welcome to yogAI
 
 ![yogaAI](https://user-images.githubusercontent.com/62070358/84757963-bbeff880-afbc-11ea-9203-fe945a4cd09c.png)
 
