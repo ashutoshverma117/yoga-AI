@@ -30,12 +30,14 @@ Tools and Libraries used: Tensorflow, ml5.py, pose.net
 
 3. To spread awareness about Yoga and exercise.
 
-4. To recommend people the best-suited posture for their health to maintain
-health and save time on process of thinking about which yoga posture they should do.
+4. To recommend people the best-suited posture for their body to maintain
+health 
 
-5. To guide the people to do proper postures.
+5. To save time on process of thinking about which yoga posture they should do.
 
-6. To engage the user's interest.
+6. To guide the people to do proper postures.
+
+7. To engage the user's interest.
 
 
 
