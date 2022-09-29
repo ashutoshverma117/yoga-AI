@@ -1,10 +1,57 @@
-### Hey there! Welcome to yogAI, developed in 2021 by Ashutosh Kumar Verma.
+### Hey there!
+Welcome to yogAI
 
 ![yogaAI](https://user-images.githubusercontent.com/62070358/84757963-bbeff880-afbc-11ea-9203-fe945a4cd09c.png)
 
-### Icons used:
+<h2>About this project:</h2>
 
-<div>Icons made by <a href="https://www.flaticon.com/free-icon/chair_2647519" target="_blank" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon"> www.flaticon.com</a></div>
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" target="_blank" title="Freepik">Freepik</a> from <a href="[https://www.flaticon.com/](https://www.flaticon.com/)" target="_blank" title="Flaticon">www.flaticon.com</a></div>
-<div>Icons made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev" target="_blank" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon">www.flaticon.com</a></div>
-<div>Blobs made using <a href="https://www.blobmaker.app/" target="_blank" title="BlobMaker">Blob Maker</a></div>
+This application detects the posture by detecting the body points using computer vision.
+
+It suggests the correction in the body posture for Yoga.
+
+Currently it has data for 5 Yoga Postures.
+
+<h2>Technologies used in this:</h2>
+
+Frontend: HTML, CSS, Javascript
+
+Backend: Javascript
+
+Deep Learning Models:
+Tools and Libraries used: Tensorflow, ml5.py, pose.net
+
+
+
+<h2>Objective :</h2>
+
+1. To develop a modern solution for Yoga practices.
+
+2. To motivate urban people towards Yoga.
+
+3. To spread awareness about Yoga and exercise.
+
+4. To recommend people the best-suited posture for their body to maintain
+health 
+
+5. To save time on process of thinking about which yoga posture they should do.
+
+6. To guide the people to do proper postures.
+
+7. To engage the user's interest.
+
+
+
+
+<h2>REFERENCES</h2>
+
+
+[1] Shruti Kothari. “Yoga Pose Classification Using Deep Learning”.Department of
+Computer Engineering, San Jose State University.
+
+[2] L. Sigal. “Human pose estimation”, Ency. of Comput. Vision, Springer 2011.
+
+[3] S. Yadav, A. Singh, A. Gupta, and J. Raheja, “Real-time yoga recognition using deep
+learning”, Neural Comput. and Appl., May 2019.
+
+[4] U. Rafi, B. Leibe, J.Gall, and I. Kostrikov, “An efficient convolutional network for human
+pose estimation”, British Mach. Vision Conf., 2016.
